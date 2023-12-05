@@ -1,3 +1,3 @@
 days = ['Monday', 'Tuesday','Wwednesday']
 fruits  = ['banana', 'orange', 'peace']
-drinks = ['coffee, 'tea', 'beer'']
+drinks = ['coffee', 'tea', 'beer']
