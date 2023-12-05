@@ -1,0 +1,5 @@
+cricketscore=int(input(" How many runs scored: "))
+#Calculate century in cricket
+century=cricketscore // 100
+extrascore=cricketscore % 100
+print(f"Century score is eq: {century} Century and extrascore is eq:{extrascore}")

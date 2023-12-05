@@ -1,0 +1,7 @@
+Duck typing
+    it is a programming concept used in dynamic programming languages, where the the of an object is determined
+    not by its class or type, but its behavior.
+    If an object has all the methods and attributes required to preform a certain operation, it's considered
+    to be the correct type of that operation
+    Duck typing allows flexible code since objects are not required to be of specific class or type to be used
+    in a certain way.

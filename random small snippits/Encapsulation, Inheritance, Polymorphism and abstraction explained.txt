@@ -1,0 +1,19 @@
+Python is an object oriented programming
+1. encapsulation:
+    this involves bundling related data and methods into a sinple unit, such as a class and hiding the implemantation
+    details from the user.
+    The user can interact with the class through its public method, which privides a simplified interface.
+     
+2. inheritance:
+    this allows you to create a new class that is modified version of ab existing classs, inheriting its properties
+    and methods.  The new class(child class) can provide them with a simplified interface that abstracts away some
+    of the complexity of the original class.
+
+3. Polymorphism:
+    it refers to the ability of object of different classes to be used interchangeably, this allows to create generic
+    code that can work with object of different types, without having to know the specific details of each object
+
+4. Abstraction:
+    refers to the concept of hiding complex implentation details and provide simplified interface for the user to
+    interact for the user to interact with. IT is a powerfull tool for creatingmodular, maintainable and resuable
+    code in python

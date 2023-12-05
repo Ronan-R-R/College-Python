@@ -1,0 +1,12 @@
+These method is called when an object is created and initialized. 
+__init__
+It is used to set initial value for the object
+attribute
+__str__
+It should return a string representation of an object
+__len__
+it should return the length of an object
+__add__
+it should return an object that represents the result of an addition
+__eq__
+it should return "TRUE" when the == object are equal otherwise "FALSE"
